@@ -20,7 +20,7 @@ class home extends Controller
                             'book' => $book, 
                             'cat' => $cat , 
                             'author' => $author,]
-                            );
+                            );//fdfd
     }
 
     public function masterCategory($name){
